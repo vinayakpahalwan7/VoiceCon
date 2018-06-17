@@ -22,3 +22,5 @@ Install dependencies:
 ```pip install nnmnkwii ```
 
 ```pip install pysptk pyworld librosa tqdm```
+
+Credit for the vast majority of code here goes to : [Ryuichi Yamamoto](https://github.com/r9y9)
