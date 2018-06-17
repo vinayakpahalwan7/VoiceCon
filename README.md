@@ -1,7 +1,7 @@
 # VoiCon
 Voice Conversion 
 
-Dataset:[Link](http://www.festvox.org/cmu_arctic/)
+ CMU ARCTIC Dataset:[Link](http://www.festvox.org/cmu_arctic/)
 
 Each sub directiory inside ```DATA_ROOT``` must have wav directory.
 
@@ -18,5 +18,7 @@ Each sub directiory inside ```DATA_ROOT``` must have wav directory.
 ```
 
 Install dependencies: 
+
 ```pip install nnmnkwii ```
+
 ```pip install pysptk pyworld librosa tqdm```
